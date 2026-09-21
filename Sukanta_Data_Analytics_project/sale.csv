@@ -1,0 +1,16 @@
+Car_Name,Company,Year,sale,Fuel_Type,Transmission,Mileage,Engine_CC
+Civic,Honda,2020,4500000,Petrol,Automatic,14,1800
+Corolla,Toyota,2019,3900000,Petrol,Manual,16,1600
+City,Honda,2021,4200000,Petrol,Automatic,15,1500
+Elantra,Hyundai,2022,5200000,Petrol,Automatic,13,2000
+Swift,Suzuki,2018,2100000,Petrol,Manual,18,1300
+Sportage,Kia,2023,8500000,Petrol,Automatic,11,2400
+Tucson,Hyundai,2022,7800000,Petrol,Automatic,12,2000
+Fortuner,Toyota,2021,14500000,Diesel,Automatic,10,2800
+Mehran,Suzuki,2016,950000,Petrol,Manual,20,800
+Alto,Suzuki,2023,2800000,Petrol,Manual,22,660
+Yaris,Toyota,2020,3500000,Petrol,Automatic,17,1300
+BRV,Honda,2019,4100000,Petrol,Automatic,14,1500
+Cultus,Suzuki,2021,2500000,Petrol,Manual,19,1000
+Sonata,Hyundai,2023,9800000,Petrol,Automatic,11,2500
+Hilux,Toyota,2022,12000000,Diesel,Manual,9,2755
